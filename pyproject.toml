@@ -1,0 +1,6 @@
+[deploy.dependencies.apt]
+packages = [
+    "ffmpeg",
+    "libsm6",
+    "libxext6",
+]
